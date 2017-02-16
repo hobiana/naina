@@ -1,0 +1,30 @@
+.my-nav{    background-color: #d4b79c;border-color: #080808;}
+.my-nav li a{color:#fff;}
+.my-nav li a:hover{text-decoration: none;background-color: rgba(112, 49, 17, 0.73);}
+
+.my-nav .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #101010;
+}
+.navbar-brand{color:#5b0606;}
+.navbar-brand:hover{color:#5b0606;}
+.mylead {font-family: cursive;color: rgb(160, 123, 76);}
+.caption{height:auto;}
+
+
+
+.my-nav-font{ color:#fff;font-size: 20px; }
+.categorie{    background-color: #2d4b67;padding: 4px;    border-radius: 3px;}
+.home{    font-size: xx-large;}
+body{background:rgba(245, 245, 245, 0.42);;}
+.mycontainer{background:white;border-radius: 5px; border: 1px solid;box-shadow: -8px -5px rgba(159, 147, 147, 0.56);}
+.mysize{font-size: 20px;}
+.input-nav{    width: 240px;height: 32px;}
+.form-nav { width: 300px; text-align: center;}
+.btn-search{margin-top:3px;}
+.archive{    max-height: 208px;overflow: auto;padding-right:0px;}
+.my-kbd{    text-align: center;font-size: 21px;}
+.myspan{    background: #2c2c2c;padding: 5px;box-shadow: 6px 4px gray;color:white;}
+.spanhome{font-size: 37px;color: #fff;}
+.myimg{margin-top:6px;}
+.modif{margin-top:5px;}
+.image{height:222px;}
