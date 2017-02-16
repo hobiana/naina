@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mycompany</groupId>
-    <artifactId>Naina</artifactId>
+    <artifactId>NainaMaven</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Naina</name>
+    <name>NainaMaven</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
@@ -26,6 +26,11 @@
             <artifactId>hamcrest-core</artifactId>
             <version>1.3</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>9.4</version>
         </dependency>
         <dependency>
             <groupId>javax</groupId>

@@ -1,5 +1,6 @@
 servlet\DetailArticle.class
 servlet\Authentification.class
+mapping\FacturePDF.class
 mapping\Article.class
 servlet\AddPanier.class
 mapping\Panier.class
@@ -16,6 +17,7 @@ servlet\AddArticleToPanier.class
 servlet\Deconnexion.class
 mapping\Client.class
 mapping\Prix.class
+servlet\ValidePanier.class
 mapping\Article2.class
 mapping\Categorie.class
 db\DBUtils.class

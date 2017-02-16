@@ -28,6 +28,10 @@
         <servlet-name>AddArticleToPanier</servlet-name>
         <servlet-class>servlet.AddArticleToPanier</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ValidePanier</servlet-name>
+        <servlet-class>servlet.ValidePanier</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>DetailArticle</servlet-name>
         <url-pattern>/DetailArticle</url-pattern>
@@ -55,6 +59,10 @@
     <servlet-mapping>
         <servlet-name>AddArticleToPanier</servlet-name>
         <url-pattern>/AddArticleToPanier</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ValidePanier</servlet-name>
+        <url-pattern>/ValidePanier</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
